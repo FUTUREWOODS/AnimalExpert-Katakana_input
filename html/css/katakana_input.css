@@ -19,8 +19,13 @@ body{
     font-size: 40px;
 }
 
+/*
 #submit_button{
     height: 70px;
+    font-size: 40px;
+}*/
+
+.suggestion{
     font-size: 40px;
 }
 
